@@ -8,7 +8,7 @@
 - make sure you have [git, just for life](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - sign up for a FREE [mongoDB account](https://www.mongodb.com/), this is what we will be using for the workshop.
 
-## setup
+## Steps
 1. get the starter express app template from: `git clone git@github.com:dartmouth-cs52/express-babel-starter.git`
     - make sure that you have the eslint json file and the .babelrc !! (for me it doesn't always come down for some reason)
 2. run `yarn install` to download all of the node modules. 
